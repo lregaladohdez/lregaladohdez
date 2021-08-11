@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lregaladohdez
-- 👀 I’m interested in cloud applications and infosec, 
-- 🌱 I’m currently learning graph databases
+- 👀 I’m interested primarly in cloud applications and infosec, 
+- 🌱 I’m currently learning graph databases, threeJS with Nuxt
 - 📫 How to reach me lorenzoregalado.com
 
 <!---
