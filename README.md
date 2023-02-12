@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @lregaladohdez
-A developer with an MSc Degree in Mathematics, Cryptography oriented profile.
-Enjoy wearing many hats at work, worked in diverse roles from sysadmin of an HPC cluster to API,
-Front End Development, and some incursions in iOS development
+A backend developer who enjoys wearing many hats and solving complex problems at work. 6+ years of experience between government and private companies, always up for a challenge and learning something new. Team player that has the opportunity to work in different fields like Frontend, DevOps, and Cloud.
 
-- 👀 I’m interested primarly in cloud applications and infosec, 
-- 🌱 I’m currently learning Java and React
 - 📫 How to reach me htps://lorenzoregalado.com
 
 <!---
